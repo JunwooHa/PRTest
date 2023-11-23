@@ -1,9 +1,9 @@
-협업
-- 여러 사람이 함께 같은 일을 처리하는 과정을 의미
--git hub는 온라인 특성상 협업이 가능한 구조
+협업 
+- 여러 사람이 같은 일을 처리하는 과정을 의미
+- git hub는 온라인 특성상 협업이 가능한 구조
 
 팀원
-1. Collaborators
+1.Collaborators
 - 공동 책임자(= 작업자)
 - 원본 원격 저장소에 push를 할 권한이 있음
 - 저장소 주인이 직접 등록해야 얻을 수 있는 권한
@@ -18,4 +18,4 @@
 
 ※ PR은 master(main)을 바로 보내는 것 보단 branch에서 작업한 내용을 보내는 것이 바람직
 ※ Collaborators도 가급적 master에 바로 push보단 
-  branch에서 작업한 내용을 push 후 PR을 요청하는 것이 좋다
+branch에서 작업한 내용을 push 후 PR을 요청하는 것이 좋다
